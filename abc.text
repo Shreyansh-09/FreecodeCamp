@@ -1,0 +1,7 @@
+only one h1 heading per page.
+
+charset : it means to convert text or special symbols or emoji or numbers into binary symbol's (0's and 1's) we will use which character set like for example we have charsets like ASCII, ISO-8859-1:1987, ISO_8859-2:1987, JIS_X0201 UTF-8, UTF-16, UTF-32 etc.
+check out this link for more info: https://www.iana.org/assignments/character-sets/character-sets.xhtml
+
+UTF-8 : one of the character set which is used globally as a standard char set.
+
