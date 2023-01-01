@@ -12,3 +12,29 @@ name = "author" content = "Shreyansh Faye" : with this meta tag we are puting he
 name = "Description" content = "...": with this meta tag we have explained here what is this page about.
 
 Note: The singnificance of adding name meta tag is it helps SEO to push your web page on top whenever some is looking for it.
+
+====================================================================================
+====================================================================================
+
+**Chapter 3 : Text Basics**
+
+<ol>
+
+<li>Heading tags have semantic meaning, each page should have only one "h1" tag as the main heading. The other headings we used in HTML file  like h2, h3 should be in proper hirarchy.</li>
+
+<li>The "hr" tag refers to Horizontal Rule it is use to separate content in an HTML page.</li>
+
+<li>inline vs block elements: in case of heading tags and paragraph tag these are block elements it means whenever a new HTML element we create using these tags it will be get created in a new line whereas the em and strong tags are inline elements which means when we use these tags so the content will not move to a new line it will be on the same line.</li>
+
+<li>The "em" tag rfers to emphasis tag, this tag create italic style automatically in the text, it is used to define the emphasized text. in an HTML document. also the screen reader pronounce the text between em tag with verbal stress. </li>
+
+<li>The "strong" tag is used to tell the importance of the text, the content between strong tag is displayed in bold style.</li>
+
+<li>&nbsp; : We know if we simply use spacebar in HTML document to create extra space it won't work.<br>
+so in order to create space in HTML document we can use HTML entities and one of the HTML entity is nbsp (non-breaking space), nbsp is a space that will not break into a new line. Two words separated by a non-breaking space will stick together (not break into a new line).Another common use of the non-breaking space is to prevent browsers from truncating spaces in HTML pages.<br>
+If you write 10 spaces in your text, the browser will remove 9 of them. To add real spaces to your text, you can use the &nbsp; character entity.
+</li>
+
+<li>read about abbr</li>
+
+</ol>
