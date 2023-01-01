@@ -7,3 +7,8 @@ read this blog: https://blog.hubspot.com/website/what-is-utf-8
 
 UTF-8 : one of the character set which is used globally as a standard char set.
 
+name = "author" content = "Shreyansh Faye" : with this meta tag we are puting here that who is the author of the page answer is "Shreyansh Faye", since I have created this page so I am the author.
+
+name = "Description" content = "...": with this meta tag we have explained here what is this page about.
+
+Note: The singnificance of adding name meta tag is it helps SEO to push your web page on top whenever some is looking for it.
