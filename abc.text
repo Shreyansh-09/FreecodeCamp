@@ -35,6 +35,29 @@ so in order to create space in HTML document we can use HTML entities and one of
 If you write 10 spaces in your text, the browser will remove 9 of them. To add real spaces to your text, you can use the &nbsp; character entity.
 </li>
 
-<li>read about abbr</li>
+<li>read about abbr(abbrivation) : The <abbr> tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".</li>
 
+</ol>
+
+====================================================================================
+====================================================================================
+
+**Chapter 4 : List Types**
+
+<p>in this chapter we learnt about list and description</p>
+<ol>
+<li>lists are of two types:
+<ul>
+<li>Ordered List</li>
+<li>Unordered List</li>
+</ul>
+<h3>Ordered List</h3>
+<p>Ordered List can be Numerical or Alphabetical. We have a type attribute in this which defines list item marker.</p>
+<h3>Unordered List</h3>
+<p>This is a bulleted list, in case of unordered list, list items will be marked with bullets by default. We use CSS list-style-type property to define the style of the list item marker.</p>
+</li>
+
+<li>
+"dl" tag defines description list. It is used in conjunction with "dt" and "dd" (description tearm and description details respectively).
+</li>
 </ol>
