@@ -95,3 +95,24 @@ Avoid "links to" phrase. We all know it is a link.
 
 Link Text Rule#3:
 No links that say "click here". It provides no meaning.
+
+====================================================================================
+====================================================================================
+
+**Chapter 6 : Add Images**
+
+We have img tag in this capter and it has attributes like src (source), alt (alternate), title, width, height.
+
+src = in this attribute we need to give image source path.
+
+alt = This is an attribute in which we give alternate text for an image, if the image cannot be displayed. (The alt attribute provides alternative information for an image if a user for some reason cannot view it because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+
+title = Title attribute we use to put the description about the image so when we hover over the image it will show that description and it should not be same as alt attribute.
+
+width and height = As the name suggest we need to give width and height of of image it will considered as a best practice.
+
+====================================================================================
+====================================================================================
+
+**Chapter 7 : Semantic Tags**
+
