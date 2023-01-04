@@ -45,19 +45,53 @@ If you write 10 spaces in your text, the browser will remove 9 of them. To add r
 **Chapter 4 : List Types**
 
 <p>in this chapter we learnt about list and description</p>
+
 <ol>
+
 <li>lists are of two types:
+
 <ul>
+
 <li>Ordered List</li>
+
 <li>Unordered List</li>
+
 </ul>
+
 <h3>Ordered List</h3>
+
 <p>Ordered List can be Numerical or Alphabetical. We have a type attribute in this which defines list item marker.</p>
+
 <h3>Unordered List</h3>
+
 <p>This is a bulleted list, in case of unordered list, list items will be marked with bullets by default. We use CSS list-style-type property to define the style of the list item marker.</p>
+
 </li>
 
 <li>
 "dl" tag defines description list. It is used in conjunction with "dt" and "dd" (description tearm and description details respectively).
 </li>
+
 </ol>
+
+====================================================================================
+====================================================================================
+
+**Chapter 5 : Add Links**
+
+<p>Absolute refrence, Relative refrence and Internal refrence</p>
+
+Absolute Ref: The full web address we are using in our page like MDN and google these types of link ref would be considered as Absolute refrence.
+
+Relative Refrence: Wnen we use different page addresses in the same folder than it called as relative refrence.
+
+Internal Refrence: 
+
+Link Text Rule#1:
+Avoid printing the full web address to the page.
+
+Link Text Rule#2:
+Avoid "links to" phrase. We all know it is a link.
+
+Link Text Rule#3:
+No links that say "click here". It provides no meaning.
