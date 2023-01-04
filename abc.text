@@ -116,3 +116,8 @@ width and height = As the name suggest we need to give width and height of of im
 
 **Chapter 7 : Semantic Tags**
 
+aria-label
+
+aside, section, article, details, summary
+
+
